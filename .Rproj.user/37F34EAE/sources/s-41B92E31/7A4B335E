@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1599614316445.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "7A4B335E",
+    "lastKnownWriteTime" : 1599614399,
+    "last_content_update" : 1599614399073,
+    "path" : "~/Uma/Rstudio-projects/Project2/Test/Scripts/Temporary_git_add.R",
+    "project_path" : "Scripts/Temporary_git_add.R",
+    "properties" : {
+        "cursorPosition" : "4,47",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
